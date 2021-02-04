@@ -28,7 +28,7 @@ function websdkready() {
       );
     })(),
     passWord: tmpArgs.pwd,
-    leaveUrl: "/lms/my/",
+    leaveUrl: "https://studyreserve.com/",
     role: parseInt(tmpArgs.role, 10),
     userEmail: (function () {
       try {
